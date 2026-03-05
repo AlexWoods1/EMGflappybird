@@ -1,0 +1,8 @@
+Trial_files/
+test_env/
+__pycache__/
+*.pyc
+.venv/
+.venv1/
+Depreciated/
+Depreciated2/
