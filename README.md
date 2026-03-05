@@ -34,9 +34,8 @@ Follow the installation process and run it.
 
 
 In a single line for the terminal:
-git clone https://github.com/AlexWoods1/EMGflappybird.git && cd EMGflappybird && python -m venv test_env && test_env\Scripts\activate && pip install -r requirements.txt && python EMGFlappyBird/main.py
+## git clone https://github.com/AlexWoods1/EMGflappybird.git && cd EMGflappybird && python -m venv test_env && test_env\Scripts\activate && pip install -r requirements.txt && python EMGFlappyBird/main.py 
 
-python -m venv test_env && test_env\Scripts\activate && pip install -r requirements.txt && python EMGFlappyBird/main.py
 
 ## Contact
 * Alex Woods - [a5woods@ucsd.edu](mailto:a5woods@ucsd.edu)
