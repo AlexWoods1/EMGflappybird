@@ -41,9 +41,13 @@ In a single line for Git Bash:
 
 For re-running the Python files, run step #6 again.
 
-To delete the files and exit the virtual environment, run in Git Bash.
+To delete the files and exit the virtual environment, run in Git Bash
 
 deactivate && cd .. && rm -rf EMGFlappyBird
+
+if you need to install python, download python version 3.12.6
+
+py install 3.12.6
 
 ## Authors
 * Alex Woods 
