@@ -13,9 +13,6 @@ Each player has 2 electrodes placed on a muscle. The raw EMG signal is acquired 
 * Pandas
 * Numpy
 
-## Getting Started: Hardware
-TODO
-
 ## Getting Started: Software
 
 #### Arduino Instructions:
